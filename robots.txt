@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://51888fa.github.io/ee/sitemap.xml
+Sitemap: https://waiyy.fun/sitemap.xml
